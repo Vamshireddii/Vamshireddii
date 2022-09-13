@@ -1,0 +1,17 @@
+All the room are dirty
+[[1,1,1,1],[1,1,1,1],[1,1,1,1],[1,1,1,1]]
+Before cleaning the room I detect all the random dirts
+[[1,0,1,1],[0,0,0,1],[1,0,0,0],[0,0,0,0]]
+Vaccum in these location now 0 0
+Cleaned 0 0
+Vaccum in these location now,0 2
+Cleaned 0 2
+Vaccum in these location now,0 3
+Cleaned 0 3
+Vaccum in these location now,1 3
+Cleaned 1 3
+Vaccum in these location now,2 0
+Cleaned 2 0
+Room is clean now, Thanks for using: A.SAFARJI CLEANER
+[[0,0,0,0],[0,0,0,0],[0,0,0,0],[0,0,0,0]]
+Performance=68.75%
